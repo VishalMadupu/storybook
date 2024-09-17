@@ -1,0 +1,31 @@
+button {
+    border: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 17px 25px;
+    margin: 50px;
+    border-radius: 5px;
+    font-size: 16.33px;
+    font-weight: 600; // Removed px
+    font-family:sans-serif;
+    color: #FFFFFF;
+    cursor: pointer;
+  }
+  
+  .primary {
+    background-color: #3451EE; // blue
+  }
+  .secondary {
+    background-color: darkblue; // blue
+  }
+  .success {
+    background-color: green; // green
+  }
+  .danger {
+    background-color: rgb(209, 30, 143); // red
+  }
+  .darker {
+    background-color: gray; // gray
+  }
+  
